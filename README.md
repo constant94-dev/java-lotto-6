@@ -1,7 +1,5 @@
 ## 🎰 로또 게임 기능 목록
 
-확인중!!!
-
 - [x] 로또 게임에 접속 - LottoGame#run()
     - [x] 로또 게임 준비 - LottoGame#ready()
     - [x] 로또 게임 시작 - LottoGame#playLotto()
